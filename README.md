@@ -1,16 +1,24 @@
-## Hi there 👋
+# Guillaume Saint-Pierre
 
-<!--
-**guillaumesaintpierre/guillaumesaintpierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineering student at **EPFL**, currently on exchange at **DTU**.
 
-Here are some ideas to get you started:
+Interested in **Machine Learning**, **Scientific Computing**, **Numerical Methods**, and their applications to engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on
+
+* Physics-Informed Neural Networks for fluid dynamics
+* Finite Element Methods and computational mechanics in MATLAB
+* REPLAY — AI-powered football video and event analysis
+
+### Technical interests
+
+`Python` · `MATLAB` · `C/C++` · `Machine Learning` · `Deep Learning` · `Numerical Methods` · `Finite Element Methods`
+
+### Selected projects
+
+Projects are currently being added and documented.
+
+### Connect
+
+[LinkedIn](www.linkedin.com/in/guillaume-saint-pierre-794a62256)
+
