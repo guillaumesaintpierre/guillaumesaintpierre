@@ -8,7 +8,7 @@ Interested in **Machine Learning**, **Scientific Computing**, **Numerical Method
 
 * Physics-Informed Neural Networks for fluid dynamics
 * Finite Element Methods and computational mechanics in MATLAB
-* REPLAY — AI-powered football video and event analysis
+
 
 ### Technical interests
 
