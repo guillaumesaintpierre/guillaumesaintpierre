@@ -20,5 +20,5 @@ Projects are currently being added and documented.
 
 ### Connect
 
-[LinkedIn](www.linkedin.com/in/guillaume-saint-pierre-794a62256)
+[LinkedIn](https://www.linkedin.com/in/guillaume-saint-pierre-794a62256/)
 
