@@ -7,11 +7,20 @@ I am currently a **Machine Learning Engineer at EPFL AI Team**, working on **REP
 ## Featured Projects
 
 ### REPLAY — Football Tactical Analysis
-**Machine Learning · Data Pipelines · Football Analytics · Python**
+**Machine Learning Engineer · EPFL AI Team**
 
-Developing data-processing and machine-learning components for tactical football analysis, including feature engineering, structured queries, data validation and retrieval of timestamped match situations.
+Contributing to REPLAY, an EPFL AI Team project focused on transforming player and ball tracking data into structured tactical information and searchable football situations.
 
-[Public REPLAY Corner Analyzer →](https://github.com/guillaumesaintpierre/replay-corner-analyzer)
+My work focuses on the ML and data layer, including tactical feature engineering, structured querying, data validation and linking analytical outputs to timestamped match segments.
+
+> The REPLAY team repository is separate from my personal GitHub portfolio.
+
+### Independent Football Analytics Demo
+**Python · StatsBomb · Data Pipelines · Information Retrieval**
+
+A separate personal project built with public StatsBomb event data to explore deterministic tactical feature extraction, natural-language query parsing and match-situation retrieval.
+
+[REPLAY Corner Analyzer →](https://github.com/guillaumesaintpierre/replay-corner-analyzer)
 
 ---
 
