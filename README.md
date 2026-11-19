@@ -22,6 +22,13 @@ DTU group project modelling transient laser heating of a 316L stainless-steel pl
 
 [MATLAB source and figures](https://github.com/guillaumesaintpierre/dtu-heat-transfer-laser-heating) · [Team contributions and methodology](https://github.com/guillaumesaintpierre/dtu-heat-transfer-laser-heating/blob/main/docs/CONTRIBUTIONS_AND_DISCLOSURE.md)
 
+### [Finite Element Methods — Thermal Modelling and Thermoelasticity](https://github.com/guillaumesaintpierre/dtu-fem-thermoelasticity)
+**Fortran · Finite elements · Heat conduction · Numerical verification**
+
+DTU 41525 group coursework with a **tested steady-state heat conduction solver** using 4-node isoparametric quadrilateral elements and 2×2 Gauss integration. I verified the implementation with thermal element checks and mesh refinement against manufactured analytical solutions; a polynomial benchmark shows approximately **second-order error convergence**. The extension to **sequential thermoelastic coupling is ongoing**, and the group final report has not yet been submitted.
+
+[Fortran source and validation](https://github.com/guillaumesaintpierre/dtu-fem-thermoelasticity) · [Contributions and credits](https://github.com/guillaumesaintpierre/dtu-fem-thermoelasticity/blob/main/docs/COURSEWORK_AND_CREDITS.md)
+
 ### [Squash Ball Launcher — Mechanical Design](https://github.com/guillaumesaintpierre/squash-ball-launcher-catia)
 **CATIA · Mechanical design · Analytical sizing · Engineering drawings**
 
@@ -41,9 +48,9 @@ An ongoing personal robotics project exploring vision-based workspace tracking a
 
 At **DTU**, my current engineering coursework includes:
 - **Heat Transfer:** [published DTU group project](https://github.com/guillaumesaintpierre/dtu-heat-transfer-laser-heating) on explicit finite-volume laser heating and shielding-gas cooling.
-- **Finite Element Methods:** Fortran-based thermal and structural finite elements, with a coupled thermoelasticity group project in progress.
+- **Finite Element Methods:** [published numerical verification and coursework](https://github.com/guillaumesaintpierre/dtu-fem-thermoelasticity), with thermoelastic coupling still in progress.
 
-The heat-transfer group report and methodology are published with attribution. The FEM thermoelasticity project remains in development and will be documented separately when its original code and results are ready.
+Both DTU group repositories disclose the scope of work and individual contributions. The FEM final project will be updated when the thermoelastic coupling and final report are completed.
 
 ## Technical interests and tools
 
