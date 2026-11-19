@@ -1,71 +1,49 @@
 # Guillaume Saint-Pierre
 
-Mechanical Engineering student at **EPFL**, currently on exchange at **DTU**, with a strong interest in **Machine Learning, Robotics, Control and Scientific Computing**.
+**Mechanical Engineering BSc — EPFL** · Exchange semester at **DTU, Denmark**
 
-I am currently a **Machine Learning Engineer at EPFL AI Team**, working on **REPLAY**, a football-analysis project that transforms tracking and event data into structured tactical information and searchable match situations.
+I am interested in the engineering of energy systems: heat transfer, energy efficiency, thermal recovery and the economic conditions that make new technologies practical. My background is in mechanical engineering, and I use numerical modelling and programming to investigate physical problems.
 
-## Featured Projects
+## Selected engineering projects
 
-### REPLAY — Football Tactical Analysis
-**Machine Learning Engineer · EPFL AI Team**
+### [Data Centre Waste Heat Recovery](https://github.com/guillaumesaintpierre/data-center-waste-heat-recovery)
+**Energy systems · Thermodynamics · Python · Techno-economic modelling**
 
-Contributing to REPLAY, an EPFL AI Team project focused on transforming player and ball tracking data into structured tactical information and searchable football situations.
+An hourly screening model of data-centre waste heat upgraded by a heat pump for district heating. I integrated **2025 Danish DK2 wholesale electricity prices and DMI weather observations**, checked the time alignment and data gaps, and compared the historical-input run with a fully synthetic reference.
 
-My work focuses on the ML and data layer, including tactical feature engineering, structured querying, data validation and linking analytical outputs to timestamped match segments.
+Under explicitly hypothetical equipment, heating-demand and cost assumptions, the historical-input scenario delivers **4.86 GWh/year**, with a mean operating **COP of 4.06**. The work examines energy balances, capacity selection and a gas-boiler cost-avoidance case. **These are modelled results, not measured plant performance or investor revenues.**
 
-> The REPLAY team repository is separate from my personal GitHub portfolio.
+[Code and methodology](https://github.com/guillaumesaintpierre/data-center-waste-heat-recovery) · [2025 study results](https://github.com/guillaumesaintpierre/data-center-waste-heat-recovery/tree/main/results/real-2025) · [Observed-data method](https://github.com/guillaumesaintpierre/data-center-waste-heat-recovery/blob/main/docs/OBSERVED_DATA_2025.md)
 
-### Independent Football Analytics Demo
-**Python · StatsBomb · Data Pipelines · Information Retrieval**
+### [Squash Ball Launcher — Mechanical Design](https://github.com/guillaumesaintpierre/squash-ball-launcher-catia)
+**CATIA · Mechanical design · Analytical sizing · Engineering drawings**
 
-A separate personal project built with public StatsBomb event data to explore deterministic tactical feature extraction, natural-language query parsing and match-situation retrieval.
+EPFL team project developing a manually powered squash-ball launcher, from concept and spring/transmission sizing to detailed CAD, drawings and assembly documentation. Design targets are distinguished from experimentally demonstrated performance.
 
-[REPLAY Corner Analyzer →](https://github.com/guillaumesaintpierre/replay-corner-analyzer)
+### [Billiard Vision & Trajectory Analysis](https://github.com/guillaumesaintpierre/billiard-vision-analysis)
+**MATLAB · C · LabVIEW · Image processing**
 
----
+Three-person EPFL project combining machine vision, trajectory reconstruction, event detection and a scoring pipeline. The repository includes source code, documentation and an example output.
 
-### LumiTrack — Vision-Guided Robotic Desk Lamp
-**Robotics · Computer Vision · Python · OpenCV · ESP32**
+### [LumiTrack — Vision-Guided Desk Lamp](https://github.com/guillaumesaintpierre/lumitrack-robotic-desk-lamp)
+**Mechatronics · Python · Computer vision · ESP32**
 
-Two-axis robotic desk lamp using computer vision to identify an active workspace and automatically orient the light toward it.
+An ongoing personal robotics project exploring vision-based workspace tracking and the mechanical/control architecture of a two-axis desk lamp. The repository distinguishes planned hardware features from implemented work.
 
-[LumiTrack repository →](https://github.com/guillaumesaintpierre/lumitrack-robotic-desk-lamp)
+## Academic work
 
----
+At **DTU**, my current engineering coursework includes:
+- **Heat Transfer:** transient 2D heat-conduction modelling of laser heating in 316L stainless steel using MATLAB and a finite-volume approach.
+- **Finite Element Methods:** Fortran-based thermal and structural finite elements, with a coupled thermoelasticity group project in progress.
 
-### Self-Balancing Robot
-**Control Systems · LQR · MATLAB · Embedded Systems**
+I am preparing the course reports and original code for separate, properly attributed repositories.
 
-Dynamic modelling and control of an inverted-pendulum robot using classical feedback, cascaded control and state-space methods.
+## Technical interests and tools
 
-[Self-balancing robot repository →](https://github.com/guillaumesaintpierre/self-balancing-robot-control)
+**Topics:** Energy efficiency · Heat transfer · Thermodynamics · Finite-volume and finite-element modelling · Energy economics · Numerical methods · Control systems
 
----
+**Tools:** Python · MATLAB · Fortran · C/C++ · CATIA · Git
 
-### Squash Ball Launcher
-**Mechanical Design · CATIA · Engineering Analysis · Manufacturing**
-
-Mechanical design of a manually powered squash-ball launcher, from analytical sizing and architecture selection to CATIA modelling, engineering drawings and manufacturing documentation.
-
-[Squash ball launcher repository →](https://github.com/guillaumesaintpierre/squash-ball-launcher-catia)
-
----
-
-### Billiard Vision Analysis
-**Computer Vision · Image Processing · Python**
-
-Computer-vision project for extracting and analysing information from billiard-table images.
-
-[Billiard vision repository →](https://github.com/guillaumesaintpierre/billiard-vision-analysis)
-
-## Technical Interests
-
-`Machine Learning` · `Deep Learning` · `Computer Vision` · `Robotics` · `Control Systems` · `Scientific Computing` · `Numerical Methods`
-
-## Tools
-
-`Python` · `MATLAB` · `C/C++` · `OpenCV` · `Git` · `CATIA`
-
-## Connect
+I also contribute to **EPFL AI Team's REPLAY** project, working with football-tracking data and tactical feature extraction. This is team work and is separate from the personal repositories above.
 
 [LinkedIn](https://www.linkedin.com/in/guillaume-saint-pierre-794a62256/)
