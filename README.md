@@ -15,6 +15,13 @@ Under explicitly hypothetical equipment, heating-demand and cost assumptions, th
 
 [Code and methodology](https://github.com/guillaumesaintpierre/data-center-waste-heat-recovery) · [2025 study results](https://github.com/guillaumesaintpierre/data-center-waste-heat-recovery/tree/main/results/real-2025) · [Observed-data method](https://github.com/guillaumesaintpierre/data-center-waste-heat-recovery/blob/main/docs/OBSERVED_DATA_2025.md)
 
+### [Transient Laser Heating — Finite-Volume Heat Transfer](https://github.com/guillaumesaintpierre/dtu-heat-transfer-laser-heating)
+**Heat transfer · MATLAB · Explicit finite-volume method · Analytical comparison**
+
+DTU group project modelling transient laser heating of a 316L stainless-steel plate, with spatially varying shielding-gas convection. The reported explicit numerical scheme predicts a peak surface temperature of **325.9 °C without cooling versus 278.7 °C at the jet centre** after 10 seconds. A separate Python check reproduces selected results from the group report; this is numerical consistency checking rather than experimental validation.
+
+[MATLAB source and figures](https://github.com/guillaumesaintpierre/dtu-heat-transfer-laser-heating) · [Team contributions and methodology](https://github.com/guillaumesaintpierre/dtu-heat-transfer-laser-heating/blob/main/docs/CONTRIBUTIONS_AND_DISCLOSURE.md)
+
 ### [Squash Ball Launcher — Mechanical Design](https://github.com/guillaumesaintpierre/squash-ball-launcher-catia)
 **CATIA · Mechanical design · Analytical sizing · Engineering drawings**
 
@@ -33,10 +40,10 @@ An ongoing personal robotics project exploring vision-based workspace tracking a
 ## Academic work
 
 At **DTU**, my current engineering coursework includes:
-- **Heat Transfer:** transient 2D heat-conduction modelling of laser heating in 316L stainless steel using MATLAB and a finite-volume approach.
+- **Heat Transfer:** [published DTU group project](https://github.com/guillaumesaintpierre/dtu-heat-transfer-laser-heating) on explicit finite-volume laser heating and shielding-gas cooling.
 - **Finite Element Methods:** Fortran-based thermal and structural finite elements, with a coupled thermoelasticity group project in progress.
 
-I am preparing the course reports and original code for separate, properly attributed repositories.
+The heat-transfer group report and methodology are published with attribution. The FEM thermoelasticity project remains in development and will be documented separately when its original code and results are ready.
 
 ## Technical interests and tools
 
